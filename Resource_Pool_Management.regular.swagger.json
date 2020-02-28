@@ -1469,7 +1469,7 @@
                     "description": "A string. Generic attribute containing the link to the schema that defines the structure of the class type of the current object."
                 }, 
                 "@type": {
-                    "$ref": "#/definitions/int", 
+                    "type": "integer", 
                     "description": "A string. Generic attribute containing the name of the resource class type."
                 }, 
                 "appliedDemandAmount": {
